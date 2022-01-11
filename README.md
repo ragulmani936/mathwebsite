@@ -180,7 +180,8 @@ h1{
 
 
 ## OUTPUT:
-![output](
+![output](https://user-images.githubusercontent.com/94881918/148916671-fe0c03d2-322f-4705-bc16-7c9ef7f39a91.png?raw=true)
+
 
 
 ## Result:
